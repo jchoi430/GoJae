@@ -1,2 +1,2 @@
 # GoJae
-This is public folder
+This report will contain only personal notes.
